@@ -1,5 +1,5 @@
 ---
 applications:
- - name: kariteun
-   host: kariteun
+ - name: kariteunbrix
+   host: kariteunbrix
    memory: 128M
